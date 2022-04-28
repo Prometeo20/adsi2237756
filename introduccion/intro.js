@@ -1,0 +1,1 @@
+console.log("Seré senior en desarrollo fullStack");
